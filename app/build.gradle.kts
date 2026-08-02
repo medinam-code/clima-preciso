@@ -14,7 +14,7 @@ android {
         versionCode = 1
         versionName = "1.0"
 
-        buildConfigField("String", "OWM_API_KEY", "\"TU_API_KEY_AQUI\"")
+        buildConfigField("String", "OWM_API_KEY", "\"730310485bfb39308f190a74eed89ec0\"")
     }
 
     buildTypes {
